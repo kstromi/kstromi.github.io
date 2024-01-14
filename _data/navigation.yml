@@ -1,14 +1,17 @@
-docs_list_title: Navigation Elements
+docs_list_title: Menu
 docs:
 
+- title: Announcements
+  url: /
+
 - title: Show Information
-  url: about
+  url: /about
 
 - title: Production Team
-  url: production
+  url: /production
 
 - title: Rehearsal Schedule
-  url: schedule
+  url: /schedule
 
 - title: Dance Videos
-  url: dance_videos
+  url: /dance_videos

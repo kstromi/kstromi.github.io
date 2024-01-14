@@ -1,0 +1,14 @@
+docs_list_title: Navigation Elements
+docs:
+
+- title: Show Information
+  url: about
+
+- title: Production Team
+  url: production
+
+- title: Rehearsal Schedule
+  url: schedule
+
+- title: Dance Videos
+  url: dance_videos

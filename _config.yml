@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MBCC Drowsy Chaperone Info
+title: MBCC Drowsy Chaperone
 description: >- # this means to ignore newlines until "baseurl:"
   Information for cast and crew members of MBCC's 2024 production of The Drowsy Chaperone.
 baseurl: "" # the subpath of your site, e.g. /blog

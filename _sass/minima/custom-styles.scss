@@ -33,4 +33,8 @@
             padding: 0; /* Remove padding */
             margin: 0; /* Remove margins */
         }
+
+        @media only screen and (max-width: 479px) {
+            .mobile-hide{ display: none !important; }
+         }
   }

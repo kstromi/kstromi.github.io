@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Show Information
+title: Show
 permalink: /about/
 ---
 

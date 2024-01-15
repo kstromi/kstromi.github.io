@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Production Staff
+title: People
 permalink: /production/
 ---
 

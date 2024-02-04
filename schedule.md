@@ -7,9 +7,10 @@ permalink: /schedule/
 Rehearsals are anticipated Mon-Wed at 7pm starting Jan 22, typically with music and blocking on Mondays and Tuesdays, and dancing on Wednesdays. Additional schedule information will be posted as it becomes available.  
 
 
- Week of... | Monday | Tuesday | Wednesday 
+ Week of... | Monday | Tuesday | Wednesday | Saturday
  ---|---|---|---
  Jan 31 | 7pm: Full Cast (music) | 7pm: Full Cast (music)<br>8:30pm: Pastry Chefs, Feldzeig, Kitty (blocking) |7pm: Full Cast (dance)<br>8:30pm: Robert, George (blocking)
+ Feb 5 | 7 pm-8 pm - Music<br>7:45 pm - Blocking for Feldzieg and Adolpho<br>8:30 pm - Blocking for Robert and George | 7 pm-8 pm - Music<br>8 pm -  Blocking for Kitty, Feldzieg, gangsters | 7 pm - Toledo Surprise with Feldzieg, Kitty and gangsters<br>8 pm - FULL CAST CALLED | 10 am - Robert, George, Drowsy, Janet, Man, and Underling<br>11 am -  Add Adolpho, Feldzieg and Tottendale
 
 
 

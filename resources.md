@@ -16,3 +16,6 @@ permalink: /resources/
 <h2>Music Tracks</h2>
 
 [Dropbox](https://www.dropbox.com/scl/fo/cxuc2wkl7tpjjb118x8bh/h/Music%20Tracks?dl=0&subfolder_nav_tracking=1)
+
+<h2>Costume Information Sheet</h2>
+[Linked here](/assets/img/COSTUME%20SHEET.pdf)

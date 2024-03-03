@@ -12,4 +12,4 @@ Michael Heidner, Producer
 Adrienne Marie, Stage Manager  
 Dave Boyer, Conductor/Musical Director  
 Ellen Steinmetz, Vocal Director  
-Caitlyn Martin, Choreographer  
+Katelyn Martin, Choreographer  

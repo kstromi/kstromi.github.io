@@ -13,6 +13,8 @@ permalink: /resources/
 [Show Off](https://drive.google.com/file/d/1gHBnBFRp1u6tZWZPB3ET6caAT7dbUTdp/view?usp=sharing)
 <br>
 [Bride's Lament](https://drive.google.com/file/d/1tNP0b8P5Zr5FsM9m3lWZFhpId7e2TYt8/view?usp=share_link)
+<br>
+[I Do in the Sky](https://drive.google.com/file/d/1_KjehZkyXKhAmt-cu7zvzt6ryJrs4RUg/view?usp=share_link)
 
 
 <h2>Music Tracks</h2>
